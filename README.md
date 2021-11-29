@@ -2,7 +2,7 @@
 
 This is the repository of the DyReG model described in our paper [Dynamic Regions Graph Neural Networksfor Spatio-Temporal Reasoning](https://arxiv.org/abs/2009.08427)
 
-Code will be realesed soon.
+Check out the code here: https://github.com/bit-ml/DyReg-GNN
 
 ## Citation
 Please use the following BibTeX to cite our work.
